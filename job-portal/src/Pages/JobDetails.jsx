@@ -22,7 +22,7 @@ const JobDetails = () => {
           }
     }
   return (
-    <div className='max-w-screen-2x1 container mx-auto xl:px-24 px-4'>
+    <div className='max-w-screen-2x1 container  mx-auto xl:px-24 px-4'>
         <PageHeader title={"Single Job Page"} path={"single job"}/>
       <h2>JobDetails : {id}</h2>
       <h1>{job.jobTitle}</h1>

@@ -61,7 +61,7 @@ const prevPage=()=>{
   }
 
   return (
-    <div className="max-w-screen-2x1 container mx-auto xl:px-24 px-4">
+    <div className="max-w-screen-2x1 container mx-auto  xl:px-24 px-4">
       <div className="my-jobs-container">
         <h1 className="text-center p-4">ALL My Jobs</h1>
         <div className="search-box p-2 text-center mb-2">

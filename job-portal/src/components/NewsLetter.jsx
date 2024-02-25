@@ -9,8 +9,7 @@ const NewsLetter = () => {
             <FaEnvelopeOpenText />
             Email me for jobs
             </h3>
-            <p className='text-primary/75 text-base mb-4 '>Ut esse eiusmod aute. Sit enim labore dolore. Aute ea
-             fugiat commodo ea foes.</p>
+            <p className='text-primary/75 text-base mb-4 '>Send your email to me and please subscribe my portal for latest and earlier updates and you are the one to get notify if I post a job.</p>
 
              <div className='w-full space-y-4'>
                 <input type="email" name='email' id='email' placeholder='name@gmail.com' className='w-full block py-2 pl-3 border focus-within:outline-none'/>
@@ -23,8 +22,7 @@ const NewsLetter = () => {
             <FaRocket />
             Get noticed faster
             </h3>
-            <p className='text-primary/75 text-base mb-4 '>Ut esse eiusmod aute. Sit enim labore dolore. Aute ea
-             fugiat commodo ea foes.</p>
+            <p className='text-primary/75 text-base mb-4 '>If you subscribe my portal you can get noticed faster and we send you our latest jobs to you then you can apply easily.</p>
 
              <div className='w-full space-y-4'>
                 
