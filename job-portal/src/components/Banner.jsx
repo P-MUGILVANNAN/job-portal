@@ -26,7 +26,7 @@ const Banner = ({query, handleInputChange}) => {
             focus-within:ring-inset focus-within:ring-indigo-600 md:w-1/3 w-full ">
                 <input type="text" name="title" id="title" placeholder="Location" className="block flex-1 border-0 bg-transparent
                  py-1.5 pl-8 text-white placeholder:text-gray-400 focus:right-0 sm:text-sm sm:leading-6"
-                  
+                 
                 
                  />
 
