@@ -39,7 +39,7 @@ const PostJob = () => {
   return (
     <div className="max-w-screen-2x1 container mx-auto xl:px-24 px-4">
       {/* form */}
-      <div className="bg-[#FAFAFA] py-10 px-4 lg:px-16">
+      <div className="bg-[#45add3] py-10 px-4 mb-10 lg:px-16">
         <form onSubmit={handleSubmit(onSubmit)} className="space-y-5">
           {/* first row */}
 

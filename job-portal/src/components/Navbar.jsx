@@ -16,7 +16,7 @@ const Navbar = () => {
   ]
 
   return (
-    <header className="max-w-screen-2x1 container mx-auto xl:px-24 px-4  bg-emerald-300 mb-10 mt-3">
+    <header style={{backgroundColor:'rgb(110 190 231)'}} className="max-w-screen-2x1 container mx-auto xl:px-24 px-4  mb-10 mt-3">
       <nav className="flex justify-between items-center py-6">
         <a href="/" className="flex items-center gap-2 text-2xl text-black">
           <svg
